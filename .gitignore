@@ -1,3 +1,8 @@
+# Directories
+/.vs
+/.vscode
+/lib
+
 # Prerequisites
 *.d
 
